@@ -8,4 +8,4 @@ I built a full stack web application that not only stores my application history
 
 ## Key Features :-
 
-** Custom Dashboard ** :- Built with Flask and Bootstrap 5 for a clean , modern UI .
+ * ** Custom Dashboard ** :- Built with Flask and Bootstrap 5 for a clean , modern UI .
